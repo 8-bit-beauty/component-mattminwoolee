@@ -2,38 +2,24 @@
 
 > Project description
 
-## Related Projects
+A full stack e-commerce web application. I designed a component architecture for the photo gallery and checkout panel to ensure a seamless experience of a product purchase. (ReactJS, Node.js/Express, MongoDB, Docker, AWS)
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
 
 ## Usage
 
-> Some usage instructions
-
-## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
 - Node 6.13.0
-- etc
-
-## Development
 
 ### Installing Dependencies
 
 From within the root directory:
 
 ```sh
-npm install -g webpack
 npm install
 ```
 
+## Development
+
+```
+npm run start
+npm run react-dev
+```
